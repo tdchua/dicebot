@@ -1,0 +1,14 @@
+{
+  "name": "tim-bot",
+  "version": "1.0.0",
+  "description": "My First Discord Bot",
+  "main": "bot.js",
+  "author": "Tim Chua",
+  "dependencies": {
+    "-": "0.0.1",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.2.0",
+    "save": "^2.4.0",
+    "winston": "^3.2.1"
+  }
+}
